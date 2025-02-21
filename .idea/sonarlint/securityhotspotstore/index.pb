@@ -5,3 +5,5 @@ L
 contracts/gene-sequence.clar,f/f/ffb882562c5f46e54992cbc574cea70c263cfb68
 K
 tests/gene-sequence.test.ts,c/8/c899815082b17edb9f1ff483d753f494c047a2ea
+N
+contracts/organism-design.clar,b/2/b20394741b5a1f42296c93c1fde69d79388275ab

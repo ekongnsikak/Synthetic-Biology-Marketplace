@@ -11,3 +11,5 @@ M
 tests/organism-design.test.ts,5/2/521bffaf070c4bdd57b753e8d80647aff4b4cc9d
 U
 %contracts/biosafety-verification.clar,3/8/386306fc358ac3da38f985797cf3e9f739de2d79
+T
+$tests/biosafety-verification.test.ts,1/7/17cb54e6860fc6254f807c75c810493464c294ec

@@ -7,3 +7,5 @@ K
 tests/gene-sequence.test.ts,c/8/c899815082b17edb9f1ff483d753f494c047a2ea
 N
 contracts/organism-design.clar,b/2/b20394741b5a1f42296c93c1fde69d79388275ab
+M
+tests/organism-design.test.ts,5/2/521bffaf070c4bdd57b753e8d80647aff4b4cc9d

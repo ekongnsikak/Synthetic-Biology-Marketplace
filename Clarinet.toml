@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.biosafety-verification]
+path = 'contracts/biosafety-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.gene-sequence]
 path = 'contracts/gene-sequence.clar'
 clarity_version = 2

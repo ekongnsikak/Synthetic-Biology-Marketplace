@@ -9,3 +9,5 @@ N
 contracts/organism-design.clar,b/2/b20394741b5a1f42296c93c1fde69d79388275ab
 M
 tests/organism-design.test.ts,5/2/521bffaf070c4bdd57b753e8d80647aff4b4cc9d
+U
+%contracts/biosafety-verification.clar,3/8/386306fc358ac3da38f985797cf3e9f739de2d79
